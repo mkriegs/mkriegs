@@ -1,8 +1,8 @@
-### Hi there 👋
+<img src="https://res.cloudinary.com/dvdi2oaso/image/upload/v1670328710/GithubProfile/avento_mz8ci4.gif" alt="">
 
+<h1>### Hi there 👋</h1>
 
-
-# Blog posts
+<h1># Blog posts</h1>
 <!-- BLOG-POST-LIST:START -->
 - [Security Architecture Linux with IPV6 Part 1](https://www.mkriegs.info/Linux-IPv6-Part1/)
 - [Security Architecture Linux with IPV6 Part 2](https://www.mkriegs.info/Linux-IPv6-Part2/)
@@ -13,23 +13,7 @@
 
 
 ![mkriegs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkriegs&show_icons=true&theme=radical)
-
-
-
-
-
-
-<!--
-**mkriegs/mkriegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</div>
