@@ -16,4 +16,4 @@ jobs:
         with:
           feed_list: https://mkriegs.info/feed.xml # Url of RSS
           ln_access_token: ${{ secrets.ln_access_token }} # Url of LinkedIn Access Token
-#          embed_image: # Url of embed image
+          embed_image: https://mkriegs.info/assets/img/IMAGESTART.jpg # Url of embed image
