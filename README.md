@@ -12,9 +12,15 @@
 - [Welcome to My Blog!](https://www.mkriegs.info/start/)
 <!-- BLOG-POST-LIST:END -->
 
-
-![mkriegs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkriegs&show_icons=true&theme=radical)
 <div>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkriegs&show_icons=true&theme=radical" alt="mkriegs's GitHub stats">
+</p>
+
+<p align="center">
 <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
+
 </div>
