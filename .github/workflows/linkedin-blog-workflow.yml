@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Get Latest Post / Post On Linkedin
-        uses: Arisamiga/Linkedin-RSS@1.2.1
+        uses: Arisamiga/Linkedin-RSS@dev-2
         with:
           feed_list: https://mkriegs.info/feed.xml # Url of RSS
           ln_access_token: ${{ secrets.ln_access_token }} # Url of LinkedIn Access Token
