@@ -6,3 +6,9 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    assignees:
+      - "mkriegs"
+    commit-message:
+      prefix: "Action Update"
+    reviewers:
+      - "mkriegs"
