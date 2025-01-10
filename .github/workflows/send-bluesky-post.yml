@@ -1,4 +1,4 @@
-name: Send Bluesky Post
+name: Send Bluesky Post workflow
 
 on:
 #  schedule: # Run workflow automatically
