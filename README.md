@@ -5,11 +5,11 @@
 <h1># Blog posts</h1>
 
 <!-- BLOG-POST-LIST:START -->
+- [Proxmox VE 9.0 Beta: Revolution in Enterprise Virtualization](https://www.mkriegs.info/proxmox9beta/)
 - [Apache CloudStack 4.19.3.0 and 4.20.1.0 Release](https://www.mkriegs.info/cloudstack4193/)
 - [VMware vSphere Foundation 9.0 Beta](https://www.mkriegs.info/vcf9beta/)
 - [Proxmox VE 8.4 Released](https://www.mkriegs.info/proxmox84/)
 - [Apache CloudStack 4.19.2.0 Release: Maintenance Update with Over 170 Fixes](https://www.mkriegs.info/cloudstack4192/)
-- [Unveiling the Power of VMware Cloud Director 10.6.1 for Cloud Service Providers](https://www.mkriegs.info/vcd1061/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>
