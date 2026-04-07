@@ -23,4 +23,14 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
+<a href="https://cloudstack.apache.org/"><img src="https://img.shields.io/badge/CloudStack-000?style=for-the-badge&logo=apachecloudstack"></a>
+<a href="https://www.linux-kvm.org/"><img src="https://img.shields.io/badge/KVM-000?style=for-the-badge&logo=linux"></a> 
+<a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes"></a>
+<a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform"></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"></a>
+<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-000?style=for-the-badge&logo=ansible"></a>  
+<a href="https://www.fortinet.com/"><img src="https://img.shields.io/badge/Fortinet-000?style=for-the-badge&logo=fortinet"></a>
+<a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-000?style=for-the-badge&logo=cisco"></a>
+<a href="https://www.gitlab.com/"><img src="https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=gitlab"></a>
+
 </div>
