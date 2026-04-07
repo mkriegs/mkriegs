@@ -32,5 +32,8 @@
 <a href="https://www.fortinet.com/"><img src="https://img.shields.io/badge/Fortinet-000?style=for-the-badge&logo=fortinet"></a>
 <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-000?style=for-the-badge&logo=cisco"></a>
 <a href="https://www.gitlab.com/"><img src="https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=gitlab"></a>
+<a href="https://www.checkpoint.com/"><img src="https://img.shields.io/badge/Checkpoint-000?style=for-the-badge&logo=checkpoint"></a>
+<a href="https://voxpupuli.org/"><img src="https://img.shields.io/badge/Openvox-000?style=for-the-badge&logo=openvox"></a>
+<a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana"></a>
 
 </div>
